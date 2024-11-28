@@ -1,0 +1,13 @@
+[package]
+name = "vico"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sergiy Protsiv <sergiy@protsiv.net>"]
+description = "A causal delitery protocol on top of reto"
+readme = "README.md"
+repository = "https://github.com/fidinda/vico"
+license = "MIT OR Apache-2.0"
+keywords = ["networking"]
+
+
+[dependencies]
